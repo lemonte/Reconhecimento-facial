@@ -1,0 +1,11 @@
+{
+  "name": "violencia",
+  "version": "1.0.0",
+  "description": "aplicacao contra a violencia contra a mulher",
+  "main": "./assets/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geandersonlemonte",
+  "license": "ISC"
+}
