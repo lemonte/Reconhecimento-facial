@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/assets/lib/face-api/labels
 /.pnp
 .pnp.js
 
